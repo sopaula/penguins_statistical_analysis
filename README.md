@@ -6,7 +6,9 @@ The project explores differences in penguin body measurements across species, se
 
 ## Dataset
 
-The dataset comes from Kaggle and contains information about penguins from the Palmer Archipelago in Antarctica.
+The dataset comes from Kaggle and contains information about penguins from the Palmer Archipelago in Antarctica:
+
+https://www.kaggle.com/datasets/zahranusratt/student-social-media-addiction-analysis-dataset
 
 Main variables include:
 
