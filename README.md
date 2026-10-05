@@ -108,5 +108,4 @@ The project includes:
 ```text
 penguins-statistical-analysis/
 ├── penguins_statistical_analysis.ipynb
-├── penguins_size.csv
 └── README.md
